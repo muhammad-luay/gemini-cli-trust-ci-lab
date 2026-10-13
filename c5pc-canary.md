@@ -1,0 +1,9 @@
+C5PC-CANARY-START postconfirm a7f31c
+
+C5PC-RENDER-CANARY a7f31c
+
+]0;C5PC-TITLE-a7f31c
+
+[31mC5PC-RED-a7f31c[0m
+
+C5PC-CANARY-END postconfirm a7f31c
